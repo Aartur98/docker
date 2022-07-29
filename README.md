@@ -1,2 +1,2 @@
 # docker
-Dockerfiles and docker-compose files collection
+Dockerfiles and docker-compose files collection.
